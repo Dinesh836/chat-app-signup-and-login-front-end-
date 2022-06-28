@@ -1,0 +1,37 @@
+.chatbox {
+    margin: auto;
+    border-style: groove;
+    border-radius: 8px  ;
+    overflow: auto;
+    width: 50%;
+    height: 300px;
+    left: 20%;
+
+}
+ .msges{
+    
+    border-style: groove;
+    border-radius: 8px  ;
+    width: 70%;
+    margin: 10px;
+    list-style: none;
+    padding: 5px;
+ }
+ 
+ .replybox {
+    margin-top: -22px;
+    border-style: groove;
+    border-radius: 8px  ;
+    padding: 20px;
+    position: absolute;
+    left: 25%;
+    top: 80%;
+ }
+ input{
+    width: 290px;
+    padding: 5px;
+ }
+ button {
+    width: 100px;
+    padding: 5px;
+ }
